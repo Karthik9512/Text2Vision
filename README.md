@@ -34,11 +34,11 @@ pip install diffusers transformers accelerate safetensors matplotlib
 ⚠️ For GPU support, ensure CUDA is installed and compatible with your PyTorch version.
 ---
 
-##🖼️ Sample Output
+## 🖼️ Sample Output
 
 Text2Vision generates visually rich and realistic images based on user-provided text prompts, such as animals, landscapes, objects, and artistic scenes.
 ---
-##📌 Future Enhancements
+## 📌 Future Enhancements
 
 Web-based user interface
 
